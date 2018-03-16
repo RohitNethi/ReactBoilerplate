@@ -1,0 +1,31 @@
+{
+  "name": "reactresumebuilder",
+  "version": "1.0.0",
+  "description": "Resume, React, Redux form, Redux, Portfolio, API",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "keywords": [
+    "resume",
+    "react",
+    "redux"
+  ],
+  "author": "Rohit Nethi",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-react": "^6.24.1",
+    "html-webpack-plugin": "^3.0.6",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.12",
+    "webpack-dev-server": "^3.1.1"
+  }
+}
