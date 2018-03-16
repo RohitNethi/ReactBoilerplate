@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../ReactResumeBuilder/.idea/ReactResumeBuilder.iml" filepath="$PROJECT_DIR$/../ReactResumeBuilder/.idea/ReactResumeBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ReactBoilerplate/.idea/ReactBoilerplate.iml" filepath="$PROJECT_DIR$/../ReactBoilerplate/.idea/ReactBoilerplate.iml" />
     </modules>
   </component>
 </project>
