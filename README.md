@@ -1,2 +1,2 @@
-# ReactBoilerplate
-My React Boilerplate to make building react apps faster without relying on create-react-app. Includes webpack and babel config. 
+# React Boilerplate
+My React Boilerplate to quickly get started with React apps. Includes basic webpack and babel configs. 
